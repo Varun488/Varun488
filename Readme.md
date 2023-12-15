@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Codeial](https://github.com/Varun488/Codeial)
 
-- 🌱 I’m currently learning **React, MongoDb , Nodejs**
+- 🌱 I’m currently learning **Kotlin , Jetpack Compose**
 
 - 📝 I regularly write articles on [https://medium.com/@varunchourasiya45](https://medium.com/@varunchourasiya45)
 
-- 💬 Ask me about **Java, HTML, CSS, Javascript, C++**
+- 💬 Ask me about **Java, Kotlin, Jetpack Compose, C++**
 
 - 📫 How to reach me **varunchourasiy45@gmail.com**
 
