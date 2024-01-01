@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Codeial](https://github.com/Varun488/Codeial)
 
-- 🌱 I’m currently learning **React, MongoDb , Nodejs**
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose, Android*
 
 - 📝 I regularly write articles on [https://medium.com/@varunchourasiya45](https://medium.com/@varunchourasiya45)
 
