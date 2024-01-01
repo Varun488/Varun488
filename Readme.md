@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Varun Chourasia</h1>
-<h3 align="center">A passionate fullStack developer from India</h3>
+<h3 align="center">A passionate Android App developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun488&label=Profile%20views&color=0e75b6&style=flat" alt="varun488" /> </p>
 
 - 🔭 I’m currently working on [Codeial](https://github.com/Varun488/Codeial)
 
-- 🌱 I’m currently learning **Kotlin , Jetpack Compose**
+- 🌱 I’m currently learning **Kotlin , Jetpack Compose , Android Development**
 
 - 📝 I regularly write articles on [https://medium.com/@varunchourasiya45](https://medium.com/@varunchourasiya45)
 
-- 💬 Ask me about **Java, Kotlin, Jetpack Compose, C++**
+- 💬 Ask me about **Java, Kotlin, Jetpack Compose, C++, Android development**
 
 - 📫 How to reach me **varunchourasiy45@gmail.com**
 
