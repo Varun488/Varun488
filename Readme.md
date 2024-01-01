@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun488&label=Profile%20views&color=0e75b6&style=flat" alt="varun488" /> </p>
 
-- 🔭 I’m currently working on [Codeial](https://github.com/Varun488/Codeial)
+- 🔭 I’m currently working on [Blog App](https://github.com/Varun488/Blog-s-App)
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, Android*
 
